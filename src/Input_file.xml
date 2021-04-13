@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<company>
+    <customer name="Mike" age="22" department="IT" />
+    <customer name="John" age="30" department="Marketing" />
+    <customer name="Anna" age="28" department="Sales" />
+</company>
+
